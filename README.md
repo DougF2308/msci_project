@@ -1,2 +1,2 @@
 # msci_project
-msci
+msci project, here we process all files and jobs needing to run on the HPC
